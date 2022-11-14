@@ -1,0 +1,8 @@
+{
+  "solution": {
+    "path": "..\\..\\..\\source\\repos\\PizzaUML2\\PizzaUML2.sln",
+    "projects": [
+      "PizzaUML2\\PizzaUML2.csproj"
+    ]
+  }
+}
